@@ -1,9 +1,9 @@
-# LINDAT/CLARIN Common Theme
+# CLARIN-LV Common Theme
 
 [![Build Status](https://travis-ci.org/ufal/lindat-common.svg?branch=master)](https://travis-ci.org/ufal/lindat-common)
 [![Dependency Status](https://gemnasium.com/ufal/lindat-common.svg)](https://gemnasium.com/ufal/lindat-common)
 
-Files common for all Lindat projects. The repository has been migrated from [UFAL Redmine](https://redmine.ms.mff.cuni.cz/projects/lindat-common). Here is short description on how to use Lindat Common Theme, for more detailed info see [Redmine wiki](https://redmine.ms.mff.cuni.cz/projects/lindat-common/wiki). 
+Files common for all Clarin-LV projects. The repository has been migrated from [UFAL Redmine](https://redmine.ms.mff.cuni.cz/projects/lindat-common). Here is short description on how to use Lindat Common Theme, for more detailed info see [Redmine wiki](https://redmine.ms.mff.cuni.cz/projects/lindat-common/wiki). 
 
 ## What is in the repository
 
